@@ -27,11 +27,6 @@
 ### 🎨 Identidade Visual
 - **Paleta Cromática:** Preto/Cinza (base) + Cores vibrantes (detalhes)
 - **Tipografia:** `Raleway` (títulos) + `Montserrat` (corpo)
-- **Layout:**
-  - Parallax scrolling para storytelling
-  - Grid dinâmico para portfólio
-  - Seções estratégicas:
-    - `Minha História` | `Portfólio` | `Processo` | `Contato`
 
 ### 💡 Experiência do Usuário
 - 🧭 Menu fixo inteligente
